@@ -29,3 +29,5 @@ footer:
     Members: /members/
     Join: /join/
     Q&A: /faq/
+
+exclude: ['config.ru', 'Gemfile', 'Gemfile.lock', 'vendor', 'Procfile', 'Rakefile']
